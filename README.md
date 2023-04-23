@@ -44,4 +44,4 @@ This project relies on the following dependencies:
 - [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env)
 - [@babel/preset-react](https://www.npmjs.com/package/@babel/preset-react)
 ## Interface Design
-![UI](./design/design.png)
+![UI](/design.png)
