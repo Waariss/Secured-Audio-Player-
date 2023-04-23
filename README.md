@@ -19,7 +19,7 @@ git init
 ```
 - Add the remote repository from GitHub:
 ```bash
-git remote add origin https://github.com/yourusername/your-repository.git
+git remote add origin https://github.com/Waariss/Secured-Audio-Player-.git
 ```
 - Pull the existing code from the GitHub repository:
 ```bash
