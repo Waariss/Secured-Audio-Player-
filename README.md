@@ -45,3 +45,6 @@ This project relies on the following dependencies:
 - [@babel/preset-react](https://www.npmjs.com/package/@babel/preset-react)
 ## Interface Design
 ![UI](/design.png)
+## Team Member
+- Waris Damkham 6388014
+- Chanisara Kotrachai 6388087
